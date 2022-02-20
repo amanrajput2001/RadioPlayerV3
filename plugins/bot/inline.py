@@ -31,11 +31,11 @@ buttons = [
                 InlineKeyboardButton("❔ HOW TO USE ME ❔", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/AsmSupport"),
+                InlineKeyboardButton("OWNER", url="https://t.me/itzamanrajput"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/musicbot_hub"),
             ],
             [
-                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://telegra.ph/file/c92ec619e7c4842ebb1f7.jpg"),
             ]
          ]
 
@@ -49,7 +49,7 @@ async def search(client, query):
                 title="Deploy Your Own Radio Player",
                 thumb_url="https://telegra.ph/file/4e839766d45935998e9c6.jpg",
                 photo_url="https://telegra.ph/file/4e839766d45935998e9c6.jpg",
-                caption=f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@AsmSafone | @AsmSupport 👑</b>",
+                caption=f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@itzamanrajput | @musicbot_hub👑</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
                 )
             )
