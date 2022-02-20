@@ -32,7 +32,7 @@ Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [AsmSupport](htt
 
 ## Deploy to Heroku
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/amanrajput/RadioPlayerV3"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amanrajput2001/RadioPlayerV3)
 
 ## Deploy to Railway
 
